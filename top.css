@@ -1500,5 +1500,18 @@ input, textarea {
     line-height: 27px;
     letter-spacing: .1em;
   }
+  #wrap #wrapper #top #main .company_sec .cnt_inner_1 .box_wrap .txt .txt_1 {
+    padding-top: 25px;
+    display: block;
+  }
+  #wrap #wrapper #top #main .company_sec .cnt_inner_1 .box_wrap .txt .txt_2 {
+    padding-top: 25px;
+    display: block;
+  }
+}
+
+#wrap #wrapper #top #main .company_sec .cnt_inner_1 .btn {
+  width: 378px;
+  margin-top: 50px;
 }
 /*# sourceMappingURL=top.css.map */
